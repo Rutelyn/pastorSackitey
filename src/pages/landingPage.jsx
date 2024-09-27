@@ -1,6 +1,8 @@
 const LandingPage = () => {
     return (
-        <div>PS. Sackitey</div>
+        <div>
+            The landing page will cover an executive summary <br /> of a sort and will be put in at least two sections
+        </div>
     );
 };
 
